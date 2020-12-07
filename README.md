@@ -1,5 +1,5 @@
 # Description:
-Investigation of users behavior for the company's app towards changes in the font
+Investigation of users behavior for the company's app
 
 ## Tasks:
 - Process and check the data
