@@ -7,9 +7,9 @@ Investigation of users behavior for the company's app towards changes in the fon
 - Investigate the results of an A/A/B test
 
 ## Some extracts of graphs:
-![](/images/Market%20share%20by%20Taxi%20companies.png)
+![](/images/General%20Funnel%20Summary4.png)
 
-![](/images/Number%20on%20rides%20by%20Dropoff%20locations.png)
+![](/images/Number%20of%20visits%20by%20date%20with%20log%20scale.png)
 
 
 ## Link:
